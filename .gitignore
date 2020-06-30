@@ -1,0 +1,5 @@
+vars.sh
+mysql/
+*.sql
+*.log
+dbs.txt
